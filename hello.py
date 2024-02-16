@@ -33,3 +33,16 @@ def myname(name):
 
 print(myname("sunny"))
 print(myname("malt"))
+
+#basic operations
+    ### arithmetic
+print(3 + 4)
+print(10 + 11)
+print(0.3 - 0.02)
+print(8 / 4)
+print(3 / 0.5)
+print(4.0 / 2.1)
+print(23 // 5)
+print(76 // 3.5)
+
+ 
